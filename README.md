@@ -82,3 +82,6 @@ The React client keeps the access token in memory and sends it as a bearer token
 ## Deployment Notes
 
 Production deployments must serve the client and API over HTTPS, set secrets outside source control, configure the allowed origin, and use a managed MySQL service with backups and restricted access. Student-register CSV files and transcripts contain personal information and must be handled according to the institution's data-protection requirements.
+
+# online-bursary-disbursement-system
+a demo online bursary application system for university students
